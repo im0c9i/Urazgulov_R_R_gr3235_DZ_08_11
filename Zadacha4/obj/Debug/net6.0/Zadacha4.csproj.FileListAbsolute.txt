@@ -1,0 +1,15 @@
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\bin\Debug\net6.0\Zadacha4.exe
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\bin\Debug\net6.0\Zadacha4.deps.json
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\bin\Debug\net6.0\Zadacha4.runtimeconfig.json
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\bin\Debug\net6.0\Zadacha4.dll
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\bin\Debug\net6.0\Zadacha4.pdb
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.csproj.AssemblyReference.cache
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.AssemblyInfoInputs.cache
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.AssemblyInfo.cs
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.csproj.CoreCompileInputs.cache
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.dll
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\refint\Zadacha4.dll
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.pdb
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\Zadacha4.genruntimeconfig.cache
+D:\C#1\DZ_08.11.22\Domashka\Zadacha4\obj\Debug\net6.0\ref\Zadacha4.dll
